@@ -1,0 +1,740 @@
+.size-12 { font-size: 12px; }
+.size-14 { font-size: 14px; }
+.size-16 { font-size: 16px; }
+.size-18 { font-size: 18px; }
+.size-21 { font-size: 21px; }
+.size-24 { font-size: 24px; }
+.size-36 { font-size: 36px; }
+.size-48 { font-size: 48px; }
+.size-60 { font-size: 60px; }
+.size-72 { font-size: 72px; }
+
+
+.align-middle {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.row {
+  max-width: 100rem;
+  margin-right: auto;
+  margin-left: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-flow: row wrap;
+  flex-flow: row wrap;
+  align-items: baseline;
+  font-family: Lato;
+
+}
+
+
+
+header.page-header {
+  position: relative;
+  border-bottom-color:  rgb(119, 162, 212);
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
+  background-color:  #184877;
+  padding: 0;
+  text-align: center;
+  color: white;
+  
+} 
+
+header.page-header.a {
+  color: white;
+} 
+
+.phone {
+border: white;
+border-style: solid; 
+padding: 7px;
+border-width: 1px;
+margin-left: 10px;
+}
+
+.section2{
+  background-color:  #184877;
+  
+
+
+}
+
+.team {
+  font-size: 26px;
+  text-align: center;
+}
+
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  
+  -webkit-flex-flow: row wrap;
+}
+
+.flex-item {
+    background: white;
+    padding: 21px;
+    width: 160px;
+    height: 89px;
+    line-height: 54px;
+    color: white;
+    font-weight: bold;
+    font-size: 0em;
+    text-align: center;
+}
+
+.section2ads{
+  padding-left: 86px;
+}
+
+.section2heading{
+ 
+    padding-top: 30px;
+    font-family: lato;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+
+.section2buttons{
+  font-family: lato;
+text-align: center;
+}
+
+.footprint {
+
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+.intro{
+  font-family: lato;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  padding-top: 75px;
+}
+
+hr.sec3hr{
+    clear: both;
+    max-width: 6rem;
+    height: 2px;
+    margin: 1.25rem auto;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 4px solid #4d4a4b;
+    border-left: 0;
+
+}
+
+.sec3paragraph{
+
+color:  #bfbfbf;
+font-family: lato;
+text-align: center;
+}
+
+.sec3paragraph2{
+  color: #3383c8;
+  font-family: lato;
+  font-size: 25px;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 75px;
+}
+
+.sec4{
+  height: 200px;
+  font-family: lato;
+  font-size: 32px;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 70px;
+}
+
+.sec5{
+  height: 500px;
+  font-family: lato;
+  font-size: 15px;
+  text-align: left;
+  padding-top: 75px;
+  background-color: #bab4b4;
+}
+
+.sec5box{
+ 
+
+  background-color: white;
+}
+
+.silver{
+  color:  #bab4b4;
+font-family: lato;
+font-size: 28px;
+text-align: left;
+font-weight: bolder;
+
+
+
+
+}
+
+.BasicSEO{
+  font-family: lato;
+  font-size: 30px;
+font-weight: bolder;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.silverText {
+  font-family: lato;
+  font-size: 15px;
+margin-top: 20px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.price{
+  font-family: lato;
+  font-size: 16px;
+color: #3383c8;
+  text-align: left;
+  margin-bottom: 20px;
+
+}
+.silverButton {
+  text-align: left;
+  width: 166px;
+  font-size: 13px;
+}
+
+hr.sec5hr{
+  clear: both;
+  max-width: 8rem;
+  height: 2px;
+  margin: 1.25rem auto;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 8px solid #ebebeb;
+  border-left: 0;
+  margin: 0px;
+
+}
+
+.sec5title{
+  text-align: left;
+  font-weight: bolder;
+padding-top: 10px;
+padding-bottom: 10px;
+font-size: initial;
+
+}
+
+.sec6{
+  height: 500px;
+  font-family: lato;
+  font-size: 15px;
+  text-align: left;
+  padding-top: 75px;
+  background-color: #c4a36c;
+}
+
+.plusIcon{
+
+  padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+  .gold{
+  font-family: lato;
+  font-size: 28px;
+  text-align: left;
+  font-weight: bolder;
+  color: #c4a36c;
+
+}
+
+
+
+.sec7{
+  height: 500px;
+  font-family: lato;
+  font-size: 15px;
+  text-align: left;
+  padding-top: 75px;
+  background-color:#777676;
+}
+
+.platinum{
+
+    font-family: lato;
+    font-size: 28px;
+    text-align: left;
+    font-weight: bolder;
+    color: #777676;
+  
+  
+}
+
+
+
+.sec8{
+  height: 350px;
+  font-family: lato;
+  font-size: 15px;
+  text-align: left;
+  padding-top: 75px;
+  background-color:#e8e8e8;
+}
+
+
+hr.sec8hr{
+  clear: both;
+  max-width: 8rem;
+  height: 2px;
+  margin: 1.25rem auto;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 8px solid #c9c9c9;
+  border-left: 0;
+
+  text-align: center;
+
+}
+
+.sec8title{
+  font-family: lato;
+  color: black;
+  text-align: center;
+  font-size: 18px;
+  padding-top: 10px;
+}
+
+
+.clientLogos{
+display: flex;
+
+
+}
+
+
+.flex-item1 {
+  padding: 21px;
+  width: 160px;
+  height: 89px;
+  line-height: 54px;
+  font-weight: bold;
+  font-size: 0em;
+  text-align: center;
+}
+
+
+
+.clientLogos{
+  padding-left: 200px;
+}
+
+
+.sec9{
+  height: 650px;
+  font-family: lato;
+  font-size: 15px;
+  text-align: left;
+  padding-top: 75px;
+  background-color:white;
+}
+
+
+.contactForm{
+ background-color: #427cb6;
+ padding: 30px;
+}
+
+.contactFormtitle{
+
+ 
+  font-family: lato;
+  color: white;
+  font-size: 25px;
+  font-weight: 900;
+  text-align: center;
+}
+
+.required{
+  font-family: lato;
+  color: white;
+  font-size: 8px;
+  text-align: center;
+padding-top: 5px;
+padding-bottom: 21px;
+
+
+}
+.aboutSelf{
+  font-family: lato;
+  color: white;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 15px;
+
+
+}
+
+.formButton{
+
+  border-color: white;
+  border-width: 1px;
+}
+
+.label1{
+  margin-right: 1.0625rem;
+  margin-left: 1.0625rem;
+
+}
+
+
+hr.sec9hr{
+
+    clear: both;
+    max-width: 100%;
+    height: 1px;
+    margin: 1.25rem auto;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 4px solid #ebebeb;
+    border-left: 0;
+    margin: 0px;
+  
+  
+}
+
+.sec10{
+  
+    height: 650px;
+    font-family: lato;
+    font-size: 15px;
+    text-align: left;
+    padding-top: 75px;
+    background-color: white;
+  
+
+}
+
+.price{
+  font-family: lato;
+  font-size: 16px;
+color: #3383c8;
+  text-align: left;
+  margin-bottom: 20px;
+
+}
+
+
+.seoPara{
+
+
+  font-size: 8px;
+  line-height: 20px;
+  text-align: center;
+  font-family: lato;
+}
+
+.seoExport {
+  padding-bottom: 15px;
+  font-size: 20px;
+  line-height: 20px;
+  text-align: center;
+  font-family: lato;
+  color: #3383c8;
+  font-weight: 900;
+}
+
+.SEOexPic{
+
+  margin-left: 20px;
+}
+
+.sec10title{
+text-align: center;
+font-family: lato;
+font-weight: 900;
+font-size: 20px;
+}
+
+hr.sec10hr{
+  clear: both;
+  max-width: 8rem;
+  height: 2px;
+  margin: 1.25rem auto;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 8px solid #ebebeb;
+  border-left: 0;
+
+  text-align: center;
+
+}
+.sec11{
+
+  display: flex;
+  justify-content: center;
+  height: 325px;
+  
+  background-color: #221f20;
+  font-family: lato;
+
+  
+}
+
+.sec11title{
+text-align: center;
+color:white;
+font-weight: 600;
+padding-top: 79px;
+padding-bottom: 20px;
+}
+
+
+
+.sec11para{
+color: #3383c8;
+text-align: center;
+font-weight: 600;
+}
+
+.sec11phone{
+
+  color: white;
+  text-align: center;
+  font-weight: 900;
+  font-size: 25px;
+}
+
+.hr.sec11hr{
+  clear: both;
+  max-width: 5rem;
+  height: 2px;
+  margin: 1.25rem auto;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 3px solid #ebebeb;
+  border-left: 0;
+
+  text-align: center;
+
+}
+
+
+.alexaGrey{
+
+  max-width: 10%;
+}
+
+
+.formGrey{
+  max-width: 13%;
+}
+
+
+.computerGrey{
+
+max-width: 20%;
+}
+
+.blogGrey{
+  max-width: 13%;
+}
+.Logos{
+max-width: 73%; margin-left: -20px;
+
+}
+
+.sec7stuff{
+  padding-left: 11px; color: white; font-size: 12px;
+        margin-left: inherit;
+}
+
+
+
+/* added all this to help with responsivness because 
+first time using foundation was a little shakey ––>*/
+
+
+@media screen and (max-width: 1000px) {
+
+
+  .sec10 {
+    height: 650px;
+    font-family: lato;
+    font-size: 15px;
+    text-align: left;
+    padding-top: 75px;
+    background-color: white;
+    margin-top: 537px;
+}
+
+
+
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 1200px) {
+
+  .handImage {
+    visibility: hidden;
+    display: none;
+  }
+ 
+  .sec7stuff{
+    padding-left: 11px;
+    color: white;
+    font-size: 12px;
+    margin-left: 60px;
+}
+
+  .extraDiv{
+    display: none;
+    visibility: hidden;
+  }
+
+  .alexaGrey{
+
+    max-width: 5%;
+  }
+
+  .formGrey{
+    max-width: 6%;
+  }
+
+  .computerGrey{
+
+    max-width: 10%;
+    }
+
+    .blogGrey{
+      max-width: 6%;
+    }
+
+   .size-48 {
+    font-size: 11px;
+}
+.Logos{
+  max-width: 63%; margin-left: -20px;
+  
+  }
+
+  .footprint{
+    max-width: 90%;
+  }
+
+  
+
+ 
+
+  
+}
+
+
+
+
+@media screen and (max-width: 920px) {
+
+
+  .phone {
+    border: none;
+    padding: 7px;
+    border-width: 1px;
+    margin-left: 10px;
+    }
+  .clientLogos {
+    visibility: hidden;
+    display: none;
+  }
+  .footprint{
+    max-width: 90%;
+  }
+  .Logos{
+    visibility: hidden;
+    display: none;
+    
+    }
+
+
+    .sec8{
+      visibility: hidden;
+      display: none;
+
+    }
+  .sec10{
+    margin-top: 300px;
+
+    height: 650px;
+    font-family: lato;
+    font-size: 15px;
+    text-align: left;
+    padding-top: 75px;
+    background-color: white;
+  
+
+}
+
+  .sec7stuff {
+    visibility: hidden;
+    display: none;
+  }
+  
+  .sec6stuff {
+    visibility: hidden;
+    display: none;
+  }
+
+  .sec5stuff {
+    visibility: hidden;
+    display: none;
+  }
+
+  
+
+
+
+}
+@media screen and (max-width: 800px) {
+
+  .sec7stuff {
+    visibility: hidden;
+    display: none;
+  }
+  
+  .sec6stuff {
+    visibility: hidden;
+    display: none;
+  }
+
+  .sec5stuff {
+    visibility: hidden;
+    display: none;
+  }
+}
