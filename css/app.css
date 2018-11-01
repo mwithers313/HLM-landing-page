@@ -719,6 +719,12 @@ first time using foundation was a little shakey ––>*/
 }
 @media screen and (max-width: 800px) {
 
+
+  .section2{
+    visibility: hidden;
+    display: none;
+  }
+
   .sec7stuff {
     visibility: hidden;
     display: none;
