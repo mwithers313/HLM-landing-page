@@ -603,11 +603,7 @@ first time using foundation was a little shakey ––>*/
 
 @media screen and (max-width: 1200px) {
 
-  .handImage {
-    visibility: hidden;
-    display: none;
-  }
- 
+
   .sec7stuff{
     padding-left: 11px;
     color: white;
